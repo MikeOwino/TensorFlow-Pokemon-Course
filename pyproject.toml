@@ -8,7 +8,7 @@ authors = ["MikeOwino <<>>"]
 python = "^3.8"
 pandas = "^1.2.4"
 sklearn = "^0.0"
-tensorflow = "^2.4.1"
+tensorflow = "^2.6.4"
 
 [tool.poetry.dev-dependencies]
 
